@@ -1,2 +1,2 @@
 # ChainForHelp
-This is the repo of the ChainForHelp project to serve the data analysis programming 2 of group 05
+This is the repo of the ChainForHelp project to serve the Data Analysis Programming 2 of group 05
